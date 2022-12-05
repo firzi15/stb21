@@ -1,0 +1,20 @@
+var data = {
+  "items": [
+{
+"url": "https://thumbor.prod.vidiocdn.com/Q3k7JXFYgsS6ogWvP--q3hS3Lfw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg"
+},{
+"url": "https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg"
+},{
+"url": "https://cdn-production-thumbor-vidio.akamaized.net/yLGAvvWnDmtFamZToqMh4ZprUxA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg"
+},{
+"url": "https://cdn-production-thumbor-vidio.akamaized.net/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"
+},{
+"url": "https://static.wikia.nocookie.net/logopedia/images/6/66/Elshinta_TV_2019_Variant.png"
+},{
+"url": "https://cdn-production-thumbor-vidio.akamaized.net/qSalXg3bVKGl3aELbuRMFvFaj2U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg"
+},{
+"url": "https://cdn-production-thumbor-vidio.akamaized.net/imuI2N8i03RELzozF2v00YYAkdc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg"
+},{
+"url": "http://stb21.mobie.in/local/thumbnail/ochannel.png"
+},
+]};
