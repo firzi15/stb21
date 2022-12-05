@@ -1,5 +1,4 @@
-var data = {
-  "items": [
+{"items": [
 {
 "src": "https://thumbor.prod.vidiocdn.com/Q3k7JXFYgsS6ogWvP--q3hS3Lfw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg",
 "url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd",
