@@ -1,0 +1,34 @@
+{
+  "items": [
+{
+      "src": "http://stb21.mobie.in/local/thumbnail/trans7.png",
+      "url": "https://dl.4webku.com/data/folknesia+4webku+com/filemanager/trans7.m3u8",
+      "ttl": "TRANS 7"
+    },{
+      "src": "http://stb21.mobie.in/local/thumbnail/transtv.png",
+      "url": "https://dl.4webku.com/data/folknesia+4webku+com/filemanager/transtv.m3u8",
+      "ttl": "TRANS TV"
+    },{
+      "src": "https://cdn-production-thumbor-vidio.akamaized.net/JwH9DLklZ3CJDAuN14MsfVhuWbA=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg",
+      "url": "http://210.210.155.37/dr9445/h/h10/index.m3u8",
+      "ttl": "RTV"
+    },{
+      "src": "https://4.bp.blogspot.com/-HU9XsHWODZA/WwhRgZSJg7I/AAAAAAAAAP0/AloA4sTPgKgGpuw4XDfixXtENvcIYd-fwCLcBGAs/s640/antv-tv-stream.jpg",
+      "url": "http://rr2.dens.tv/s/s07/index.m3u8",
+      "ttl": "ANTV"
+    },{
+      "src": "https://cdn-production-thumbor-vidio.akamaized.net/fOzHCxuHL_OWqlf7P8JlhydxeaE=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg",
+      "url": "http://rr2.dens.tv/s/s03/index.m3u8",
+      "ttl": "SCTV"
+    },{
+      "src": "https://cdn-production-thumbor-vidio.akamaized.net/WDHkt9iNuwJ_aEvNUXTnKiwgZUU=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg",
+      "url": "http://tvn.x10.mx/1/master.m3u8?dl=1",
+      "ttl": "INDOSIAR"
+    },{
+      "src": "https://cdn-production-thumbor-vidio.akamaized.net/8e17JOiM1YvVuiaOIFG763kivUc=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",
+      "url": "http://210.210.155.35/qwr9ew/s/s08/index.m3u8",
+      "ttl": "NET TV"
+    }
+  ]
+}
+
