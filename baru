@@ -5,12 +5,15 @@
       "url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd",
       "ttl": "METRO  TV"
     },
-
     {
       "src": "https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg",
       "url": "https://dl.4webku.com/data/folknesia+4webku+com/filemanager/cnn.m3u8",
       "ttl": "CNN Indonesia"
     },
-
+   {
+      "src": "https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg",
+      "url": "https://dl.4webku.com/data/folknesia+4webku+com/filemanager/cnn.m3u8",
+      "ttl": "CNN Indonesia"
+    }
   ]
 }
