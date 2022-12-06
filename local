@@ -6,7 +6,7 @@
       "ttl": "METRO  TV"
     },{
       "src": "https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg",
-      "url": "https://dl.4webku.com/data/folknesia+4webku+com/filemanager/cnn.m3u8",
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/cnn.m3u8",
       "ttl": "CNN INDONESIA"
     },{
       "src": "https://cdn-production-thumbor-vidio.akamaized.net/yLGAvvWnDmtFamZToqMh4ZprUxA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg",
