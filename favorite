@@ -13,7 +13,7 @@
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/rtv.m3u8",
       "ttl": "RTV"
     },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/rtv.png",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/antv.png",
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/antv.m3u8",
       "ttl": "ANTV"
     },{
