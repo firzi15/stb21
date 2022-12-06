@@ -13,8 +13,8 @@
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/rtv.m3u8",
       "ttl": "RTV"
     },{
-      "src": "https://4.bp.blogspot.com/-HU9XsHWODZA/WwhRgZSJg7I/AAAAAAAAAP0/AloA4sTPgKgGpuw4XDfixXtENvcIYd-fwCLcBGAs/s640/antv-tv-stream.jpg",
-      "url": "http://rr2.dens.tv/s/s07/index.m3u8",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/rtv.png",
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/antv.m3u8",
       "ttl": "ANTV"
     },{
       "src": "https://cdn-production-thumbor-vidio.akamaized.net/fOzHCxuHL_OWqlf7P8JlhydxeaE=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg",
