@@ -8,6 +8,10 @@
       "src": "https://wallpaperaccess.com/full/7068215.jpg",
       "url": "https://dl.4webku.com/data/folknesia+4webku+com/filemanager/pialadunia2.m3u8",
       "ttl": "Pildun 2"
+    },{
+      "src": "https://thumbor.prod.vidiocdn.com/gVWBEWLHEJYGkaeqmxAJS_TlzPU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-959596.jpg"
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/worldcup.m3u8"
+      "ttl": "World Cup 1"
     }
   ]
 }
