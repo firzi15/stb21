@@ -1,6 +1,6 @@
 {
   "items": [
-{
+      {
       "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/trans7.png",
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/trans7.m3u8",
       "ttl": "TRANS 7"
@@ -9,25 +9,25 @@
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/transtv.m3u8",
       "ttl": "TRANS TV"
     },{
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/sctv.png",
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/sctv.m3u8",
+      "ttl": "SCTV"
+    },{
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/indosiar.png",
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/indosiar.m3u8",
+      "ttl": "INDOSIAR"
+    },{
       "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/rtv.png",
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/rtv.m3u8",
       "ttl": "RTV"
     },{
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/net.png",
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/net-tv.m3u8",
+      "ttl": "NET TV"
+    },{
       "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/antv.png",
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/antv.m3u8",
       "ttl": "ANTV"
-    },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/sctv.png",
-      "url": "http://rr2.dens.tv/s/s03/index.m3u8",
-      "ttl": "SCTV"
-    },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/indosiar.png",
-      "url": "http://210.210.155.35/qwr9ew/s/s04/index.m3u8",
-      "ttl": "INDOSIAR"
-    },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/net.png",
-      "url": "http://210.210.155.35/qwr9ew/s/s08/index.m3u8",
-      "ttl": "NET TV"
     }
   ]
 }
