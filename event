@@ -2,10 +2,11 @@
   "items": [
       {
       "src": "https://wallpapercave.com/mwp/wp4533225.jpg",
-      "url": "http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/111649.m3u8",
+      "url": "http://lb.yacinetvkora.com/live/lb/bm1-multi.m3u8",
       "ttl": "World Cup"
     },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/bri-liga1.png",      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/liga1.m3u8",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/bri-liga1.png",      
+      "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/liga1.m3u8",
       "ttl": "BRI Liga 1"
     }
   ]
