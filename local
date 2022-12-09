@@ -37,6 +37,10 @@
       "url": "http://rr2.dens.tv/s/s105/index3.m3u8",
       "ttl": "TV One"
     },{
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/kompas.png",
+       "url": "http://rr2.dens.tv/s/s104/index10.m3u8",
+      "ttl": "KOMPAS TV"
+    },{
       "src": "https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg",
       "url": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/cnn.m3u8",
       "ttl": "CNN INDONESIA"
