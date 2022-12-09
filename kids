@@ -5,8 +5,7 @@
       "url": "http://rr1.dens.tv/h/h02/01.m3u8",
       "ttl": "ANIPLUS"
     },{
-      "src": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3onx39zj/banner_mdpi.jpg",
-      "url": "http://rr.dens.tv/h/h191/index.m3u8",
+      "src": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3onx39zj/banner_xhdpi.jpg",      "url": "http://rr.dens.tv/h/h191/index.m3u8",
       "ttl": "MY  KIDZ"
     }
   ]
