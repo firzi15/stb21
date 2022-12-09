@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "src": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506915616_aniplus-artcard.jpg",
+      "url": "http://210.210.155.35/dr9445/h/h02/index.m3u8",
+      "ttl": "ANIPLUS"
+    },{"src": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png",
+      "url": "http://210.210.155.35/uq2663/h/h08/index.m3u8",
+      "ttl": "K PLUS"
+    }
+ ]
+}
