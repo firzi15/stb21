@@ -7,6 +7,12 @@
     },{"src": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png",
       "url": "http://210.210.155.35/uq2663/h/h08/index.m3u8",
       "ttl": "K PLUS"
+    },{
+      "src": "https://cdn-production-thumbor-vidio.akamaized.net/HtQP7GHo1ry8vp2HAxhUXGuNQmM=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6399/zee-bioskop-cover-36f138.jpg",
+      "url": "http://210.210.155.35/qwr9ew/s/s32/index.m3u8",
+      "ttl": "ZEE BIOSKOP"
     }
- ]
+
+
+  ]
 }
