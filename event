@@ -3,6 +3,10 @@
       {
       "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/bri-liga1.png",      
       "url": "https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-480.m3u8",      "ttl": "BRI Liga 1"
+    },{
+      "src": "https://wallpapercave.com/mwp/wp4533225.jpg",
+      "url": "http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176203?format=.m3u8",
+      "ttl": "World Cup"
     }
   ]
 }
