@@ -1,11 +1,11 @@
 {
   "items": [
       {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/RTM_SPORT_2020.jpg/800px-RTM_SPORT_2020.jpg",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/rtm-sports.png",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
       "ttl": "SUKAN"
     },{
-      "src": "https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/tvri-sports.png",
       "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
       "ttl": "TVRI SPORTS"
     }
