@@ -5,10 +5,10 @@
       "url": "http://210.210.155.35/uq2663/h/h08/index.m3u8",
       "ttl": "K PLUS"
     },{
-      "src": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_1pff5fk0/banner_xhdpi.jpg",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/kix.png",
       "url": "http://rr1.dens.tv/h/h07/index.m3u8",
       "ttl": "KIX"
-    },{
+    },
       "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/rock-ent.png",      
       "url": "http://rr1.dens.tv/h/h16/index.m3u8",
       "ttl": "Rock Entertaiment"
