@@ -8,18 +8,6 @@
       "src": "https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png",
       "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
       "ttl": "TVRI SPORTS"
-    },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/bein-1.png",
-      "url": "http://lb.yacinetvkora.com/live/lb/bm1-multi.m3u8",      
-      "ttl": "BEIN SPORTS 1"
-    },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/bein-2.png",
-      "url": "http://lb.yacinetvkora.com/live/lb/bm2-multi.m3u8",      
-      "ttl": "BEIN SPORTS 2"
-    },{
-      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/bein-3.png",
-      "url": "http://lb.yacinetvkora.com/live/lb/bm3-multi.m3u8",      
-      "ttl": "BEIN SPORTS 3"
     }
   ]
 }
