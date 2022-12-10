@@ -1,11 +1,12 @@
 {
   "items": [
       {
-      "src": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506915616_aniplus-artcard.jpg",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/aniplus.png",
       "url": "http://rr1.dens.tv/h/h02/01.m3u8",
       "ttl": "ANIPLUS"
     },{
-      "src": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3onx39zj/banner_xhdpi.jpg",      "url": "http://rr.dens.tv/h/h191/index.m3u8",
+      "src": "https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/my-kidz.png",
+      "url": "http://rr.dens.tv/h/h191/index.m3u8",
       "ttl": "MY  KIDZ"
     }
   ]
