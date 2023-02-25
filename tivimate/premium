@@ -1,6 +1,25 @@
 #EXTM3U
 url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 
+================== BRI LIGA INDONESIA ==================== 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png" 
+group-title="BRI LIGA INDONESIA", Live BRI 1 http://golive.yn.lt:80/live/liga1/01.m3u8 
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png"
+group-title="BRI LIGA INDONESIA", Live BRI 2 http://golive.yn.lt:80/live/liga1/02.m3u8 
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png"
+group-title="BRI LIGA INDONESIA", Live BRI 3 http://golive.yn.lt:80/live/liga1/03.m3u8 
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png"
+group-title="BRI LIGA INDONESIA", Live BRI 4 http://golive.yn.lt:80/live/liga1/04.m3u8 
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png"
+group-title="BRI LIGA INDONESIA", Live BRI 5 http://golive.yn.lt:80/live/liga1/05.m3u8
+
+======================= LOKAL ========================= 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/rcti-tv.png" group-title="Lokal",RCTI
@@ -68,22 +87,12 @@ https://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://cdn.ksa.my.id/tvri.png" group-title="Lokal",TVRI
+#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/tvri.png" group-title="Lokal",TVRI
 https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="BaliTV.Id" tvg-logo="https://cdn.ksa.my.id/balitv.png" group-title="Lokal",BALI TV
-https://anevia114.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="BandungTV.Id" tvg-logo="https://cdn.ksa.my.id/bandungtv.png" group-title="Lokal",BandungTV
-https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="Lokal",Net.
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/local/thumb/net.png" group-title="Lokal",Net.
 https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
