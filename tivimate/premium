@@ -164,7 +164,7 @@ https://anevia114.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="CelestialClassicMovie.Id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/ccm-g.jpg" group-title="Movies",Celestial Classic Movies
+#EXTINF:0 tvg-id="CelestialClassicMovie.Id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/ccm-i.jpg" group-title="Movies",Celestial Classic Movies
 https://anevia114.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -174,7 +174,7 @@ https://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://cdn.ksa.my.id/cinemaworld.png" group-title="Movies",Cinema World
+#EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/cinema-w.jpg" group-title="Movies",Cinema World
 https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 ======================= BERITA ========================= 
