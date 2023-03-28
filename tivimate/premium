@@ -20,7 +20,8 @@ http://golive.yn.lt:80/live/liga1/04.m3u8
 http://golive.yn.lt:80/live/liga1/05.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png" tvg-id="BRI Liga 1-6.Id" group-title="BRI LIGA 1", Live Timnas
-http://golive.yn.lt/live/bola/14.m3u8
+https://hls3.04lv.com/live/L14647860.m3u8?txSecret=39e25a30f9c1ecf85050ffa1c0ccad5e&txTime=6422E818&_s=stream
+
 ======================= LOKAL ========================= 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
